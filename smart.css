@@ -1,9 +1,11 @@
 h1 {
   border: 1px solid red;
-  color: brown;
+  color: red;
 
   #para1 {
     color: blue;
     text-decoration: underline;
+    font-size: 20px;
+    font-weight: lighter;
   }
 }
